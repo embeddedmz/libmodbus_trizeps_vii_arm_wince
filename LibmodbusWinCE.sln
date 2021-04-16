@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibmodbusWinCE", "LibmodbusWinCE\LibmodbusWinCE.vcproj", "{B1225B30-3787-4291-92B5-5FE92A71B0F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Trizeps-VII-2015-Q2 (ARMv4I) = Debug|Trizeps-VII-2015-Q2 (ARMv4I)
+		Release|Trizeps-VII-2015-Q2 (ARMv4I) = Release|Trizeps-VII-2015-Q2 (ARMv4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1225B30-3787-4291-92B5-5FE92A71B0F5}.Debug|Trizeps-VII-2015-Q2 (ARMv4I).ActiveCfg = Debug|Trizeps-VII-2015-Q2 (ARMv4I)
+		{B1225B30-3787-4291-92B5-5FE92A71B0F5}.Debug|Trizeps-VII-2015-Q2 (ARMv4I).Build.0 = Debug|Trizeps-VII-2015-Q2 (ARMv4I)
+		{B1225B30-3787-4291-92B5-5FE92A71B0F5}.Debug|Trizeps-VII-2015-Q2 (ARMv4I).Deploy.0 = Debug|Trizeps-VII-2015-Q2 (ARMv4I)
+		{B1225B30-3787-4291-92B5-5FE92A71B0F5}.Release|Trizeps-VII-2015-Q2 (ARMv4I).ActiveCfg = Release|Trizeps-VII-2015-Q2 (ARMv4I)
+		{B1225B30-3787-4291-92B5-5FE92A71B0F5}.Release|Trizeps-VII-2015-Q2 (ARMv4I).Build.0 = Release|Trizeps-VII-2015-Q2 (ARMv4I)
+		{B1225B30-3787-4291-92B5-5FE92A71B0F5}.Release|Trizeps-VII-2015-Q2 (ARMv4I).Deploy.0 = Release|Trizeps-VII-2015-Q2 (ARMv4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
