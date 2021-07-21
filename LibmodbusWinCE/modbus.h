@@ -7,8 +7,8 @@
 #ifndef MODBUS_H
 #define MODBUS_H
 
-#define strerror(n) _T("file error")
-#define perror(n) _T("file error")
+#define strerror(n) "strerror() is not implemented !"
+#define perror(n) "perror() is not implemented !"
 
 #ifdef __cplusplus
 extern "C" {

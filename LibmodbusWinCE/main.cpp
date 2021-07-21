@@ -30,7 +30,7 @@
  * ADDRESS_END then ADDRESS_START + 1 to ADDRESS_END and so on.
  */
 
-int main(int argc, char* argv[]) {
+int wmain(int argc, char* argv[]) {
 	modbus_t* ctx;
 	int rc;
 	int addr = 0;
